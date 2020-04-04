@@ -1,2 +1,3 @@
-# This is my text
+# This is my *text*
 Hello my name is Aliya
+[This is my link](http://github.com)
